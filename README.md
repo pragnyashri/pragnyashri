@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pragnyashri
 - 👀 I’m interested in New Tech Trends.
 - 🌱 I’m currently learning Graphic Designing.
-- 💞️ I’m a Beginner in C language.
+- 💞️ I’m a enthusiastic in doing C projects.
 
 
 <!---
