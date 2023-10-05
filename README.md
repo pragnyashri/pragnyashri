@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragnyashri&show_icons=true&locale=en" alt="pragnyashri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragnyashri&" alt="pragnyashri" /></p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
