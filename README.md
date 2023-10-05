@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pragnya Shri</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=H+I;I'm+Pragnya+Shri)](https://git.io/typing-svg)
 <h3 align="center">I’m Pragnya Shri,I am constantly striving to expand my knowledge in the field. I possess proficiency in programming languages like C, C++, and Python, and I am enthusiastic about their utilization in Machine Learning. Along with my interest in Artificial Intelligence, I am passionate about Full-Stack Development. I am excited about the prospect of acquiring knowledge and skills in both front-end and back-end development. My inclination towards Full-Stack Development stems from my desire to build applications from scratch and be involved in the entire development cycle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragnyashri&label=Profile%20views&color=0e75b6&style=flat" alt="pragnyashri" /> </p>
