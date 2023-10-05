@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pragnya Shri</h1>
-<h3 align="center">I’m Pragnya Shri, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</h3>
+<h3 align="center">I’m Pragnya Shri,I am constantly striving to expand my knowledge in the field. I possess proficiency in programming languages like C, C++, and Python, and I am enthusiastic about their utilization in Machine Learning. Along with my interest in Artificial Intelligence, I am passionate about Full-Stack Development. I am excited about the prospect of acquiring knowledge and skills in both front-end and back-end development. My inclination towards Full-Stack Development stems from my desire to build applications from scratch and be involved in the entire development cycle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragnyashri&label=Profile%20views&color=0e75b6&style=flat" alt="pragnyashri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragnyashri" alt="pragnyashri" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **pragnyashriprakhya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prakhya pragnya shri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhya pragnya shri" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/srmsci_143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srmsci_143" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pp6605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pp6605" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pragnyashri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pragnyashri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
